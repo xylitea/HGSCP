@@ -17,7 +17,7 @@
 
 	$ pip install pandas==1.2.0 scikit-learn==0.24.0 pycparser==2.20 javalang==0.11.0
 
-请根据您的环境安装 pytorch，参考 https://pytorch.org/
+请根据您的环境安装 pytorch，参考 https://pytorch.org/ <br>
 请根据您的环境安装 pytorch-geometric，参考 https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
 
 ### 数据集
