@@ -28,5 +28,3 @@
 1. 在train.py中设置projects参数，选择用于实验的项目
 2. 运行 train.py 得到实验结果
 3. 运行compute_metrics.py 计算指标
-
-### 最后感谢 https://github.com/jacobwwh/graphmatch_clone 仓库提供的参考和灵感。
